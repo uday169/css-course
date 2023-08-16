@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color : #008B8B
+}
+
+code {
+    font-family: monospace;
+    color : #cd5c5c
+}
+
+.second-list code{
+    color: #008000
+}
+
+li + li{
+    background-color: #000000;
+    color : #fff;
+}
+
+ol li {
+    background-color: #000000;
+    color : #fff;
+}
